@@ -13,7 +13,7 @@ using Globals;
 
 public class BinhGameView : GameView
 {
-    private enum TYPE_CARDS_PUSOY
+    private enum TYPE_CARDS_PUSOY 
     {
         NONE = -1, HIGH_CARD, PAIR, TWO_PAIR, THREE_OF_A_KIND, STRAIGHT, FLUSH, FULL_HOUSE, FOUR_OF_A_KIND,
         STRAIGHT_FLUSH, THREE_FLUSHES, THREE_STRAIGHT, SIX_PAIRS, SAME_COLOR, DRAGON, GRAND_DRAGON
